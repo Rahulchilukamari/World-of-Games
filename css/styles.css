@@ -1,0 +1,226 @@
+#title {
+  background: linear-gradient(to right, #cdb30c 20%, #fddb3a 100%);
+}
+
+/* navigation bar */
+.navbar {
+  padding: 0 20px 0;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.nav-item {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.nav-link {
+  font-weight: 2.5;
+}
+
+/* body */
+h1 {
+  font-family: 'Montserrat-black', sans-serif;
+  font-size: 4rem;
+  line-height: 1.5;
+  font-weight: bolder;
+  text-align: center;
+}
+
+@media (max-width : 700px) {
+  h1 {
+    font-size: 2.5rem;
+    font-family: 'Montserrat-black', sans-serif;
+    line-height: 1.5;
+    font-weight: bolder;
+    text-align: center;
+  }
+}
+
+/* title */
+.container-fluid {
+  padding: 3% 10% 7%;
+}
+
+.col-lg-12 {
+  text-align: center;
+}
+
+.btn-dark {
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+
+.btn-outline-light {
+  margin-top: 3%;
+  margin-left: 3%;
+  margin-bottom: 3%;
+}
+
+/* features */
+.feature-box {
+  margin-top: 2.5rem;
+}
+
+.fas {
+  font-size: 2rem;
+  color: #cdb30c;
+  margin: 1rem;
+}
+
+.fas:hover {
+  color: #fddb3a;
+}
+
+#features {
+  text-align: center;
+  padding: 8% 20%;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.pa {
+  color: #8f8f8f;
+}
+
+/* testimonials */
+#testimonials {
+  padding: 2% 6%;
+  background-color: #fddb3a;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bolder;
+}
+
+.testimonials-heading {
+  text-align: center;
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-bottom: 5%;
+  padding-top: 4%;
+}
+
+.cod {
+  margin: 2rem;
+  text-align: center;
+  margin-left: 28%;
+  width: 45%;
+}
+
+.text {
+  padding-top: 1%;
+}
+
+.em1 {
+  font-size: 1.3em;
+  text-align: center;
+  padding-left: 25%;
+}
+
+.p1 {
+  padding-left: 25%;
+}
+
+.pubg1 {
+  margin: 2rem;
+  text-align: center;
+  width: 100%;
+  height: 120%;
+}
+
+.gow {
+  margin: 2rem;
+  text-align: center;
+  margin-left: 30%;
+  width: 40%;
+}
+
+.gow1 {
+  margin: 2rem;
+  text-align: center;
+  margin-left: 25%;
+  width: 60%;
+}
+
+.gow2 {
+  margin: 2rem;
+  text-align: center;
+  margin-left: 8%;
+  width: 85%;
+}
+
+/* Downloads */
+#download {
+  padding: 2% 10%;
+}
+
+.game {
+  text-align: center;
+  margin-top: 6rem;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.gamex {
+  text-align: center;
+  font-size: 1.1em;
+  margin-top: 1rem;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.card {
+  text-align: center;
+  padding:
+}
+
+.card-header {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.download-images1 {
+  width: 50%;
+  margin-top: 2em;
+}
+
+.card-header {
+  background-color: #fddb3a;
+}
+
+/* CTA */
+#cta {
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  padding: 4% 20%;
+}
+
+/* FOOTER */
+#footer {
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+}
+
+.fa-instagram {
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #cdb30c
+}
+
+.fa-facebook-f {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #cdb30c
+}
+
+.fa-instagram:hover {
+  color: #fddb3a;
+}
+
+.fa-facebook-f:hover {
+  color: #fddb3a;
+}
+
+.footer {
+  color: #ffd571;
+}
